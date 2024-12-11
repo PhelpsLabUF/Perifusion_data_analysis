@@ -1,0 +1,36 @@
+Case_ID,Clinical_phenotype,Age,Duration,Sex,Race_Ethnicity,Aabs,Transplant_HLA,BMI,HbA1c_percent,C_peptide_ng_mL,serologies
+6535,ND,31.07,NA,Female,Caucasian,Negative, DR*11/13_ DQB*06/07,29.6,0,6.59,"EBV IgG, Anti-CMV"
+6539,ND,24.6,NA,Male,Hispanic/Latino,Negative, DR*04/13_ DQB*06/08,19.3,5.7,39.23,"EBV IgG, Anti-CMV"
+6540,ND,6.86,NA,Female,Hispanic/Latino,Negative, DR*04/11_ DQB*07/04,18.3,5.8,2.03,Anti-CMV
+6552,ND,33.87,NA,Female,Caucasian,Negative, DR*17/04_ DQB*02/08,21.9,5.6,1.8,EBV IgG
+6583,ND,30.54,NA,Male,Caucasian,Negative, DR*11/13_ DQB*07/06,24.8,5,10.55,"Anti-CMV, EBV IgG"
+6584,ND,22.53,NA,Male,Caucasian,Negative, DR*04/11_ DQB*07/08,21.1,5.3,6.02,Non-Reactive
+6586,ND,13.21,NA,Male,Caucasian,Negative, DR*04/07_ DQB*02/08,27.4,5.1,6.83,"Anti-CMV, EBV IgG "
+6588,ND,29.3,NA,Female,Caucasian,Negative, DR*04/11_ DQB*07/07,34,5.1,7.3,"EBV IgG, CMV total"
+6590,ND,16,NA,Female,African American,Negative, DR*08/13_ DQB*06/07,21.3,5.3,49.65,EBV IgG
+6597,ND,6.08,NA,Female,Hispanic/Latino,Negative, DR*04/04_ DQB*08/08,16.3,5.7,5.02,Anti-CMV
+CV14,ND,9.85,NA,Female,Caucasian,Negative,NA,13.2,NA,NA,NA
+6516,ND,20.75,NA,Male,Caucasian,,,,,,
+6530,ND,,,,,,,,,,
+6598,ND,,,,,,,,,,
+6532,sAAb+,20.04,NA,Male,Hispanic/Latino,GADA+, DR*07/11_ DQB*02/07,23.9,5.9,22.12,"EBV IgG, Anti-CMV"
+6538,sAAb+,19.14,NA,Male,Caucasian,GADA+, DR*17/08_ DQB*02/04,32.9,5.8,11.33,"EBV IgG, Anti-CMV"
+6558,sAAb+,21.69,NA,Female,African American,GADA+, DR*17/07_ DQB*02/null,27.8,4.4,8.03,"EBV IgG, Anti-CMV"
+6562,sAAb+,29.77,NA,Female,Caucasian,GADA+, DR*04/15_ DQB*06/08,18.2,5.6,13.19,"EBV IgG, Anti-CMV"
+6569,sAAb+,20,NA,Female,Hispanic/Latino,GADA+, DR*04/15_ DQB*08/06,24.2,6,2.44,"EBV IgG, CMV IgG, CMV IgM (Equivocal) "
+6573,sAAb+,24.48,NA,Female,Caucasian,GADA+, DR*01/17_ DQB*02/05,35.5,5.1,1.85,EBV IgG
+6582,sAAb+,22.38,NA,Male,Caucasian,GADA+, DR*17/04_ DQB*02/08,23,5.6,2.67,"EBV IgG, Anti-CMV"
+CV15,sAAb+,18.93,NA,Male,Caucasian,GADA+,NA,24.8,NA,NA,NA
+6518,sAAb+,,,,,,,,,,
+6505,mAAb+,,,,,,,,,,
+6512,mAAb+,,,,,,,,,,
+6622,mAAb+,,,,,,,,,,
+6523,T1D,12.17,3,Female,African American,"GADA+, mIAA+", DR*17/07_ DQB*02/02,22.5,11.1,0.04,Non-reactive
+6536,T1D,20.16,4,Female,Caucasian,GADA+ , DR*04/17_ DQB*02/08,25.4,12.7,0.04,EBV IgG
+6550,T1D,25.06,0,Male,Caucasian,"GADA+, ZnT8A+ ", DR*17/null_ DQB*02/null,16.4,14,<0.02,EBV IgG
+6563,T1D,14.56,0,Female,Caucasian,IA2A+, DR*07/08_ DQB*02/04,25.5,9.6,1.04,EBV IgG
+6578,T1D,11.95,0,Female,Caucasian,"IA2A+, ZnT8A+", DR*04/11_ DQB*07/08,22.5,13.6,0.35,Anti-CMV
+6579,T1D,13.91,1,Female,Caucasian,"GADA+, mIAA+", DR*17/13_ DQB*02/06,18.4,15,0.31,Anti-CMV
+6591,T1D,3.69,0,Male,Caucasian,"IA2A+, ZnT8A+ ", DR*04/13_ DQB*08/06,14.1,12.8,0.03,Non-Reactive
+6551,T1D,20.7,0.58,Male,Caucasian,,,,,,
+6533,T1D,,,,,,,,,,
