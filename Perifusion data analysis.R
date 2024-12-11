@@ -1,7 +1,7 @@
 ############# Perifusion data for insulin secretion - nPOD ###############
 
 # Written by: Alexandra Cuaycal
-## This R code was adapted from live Ca imaging analysis by AC
+## This R script was adapted from live Ca imaging analysis by AC
 
 ## set working directory to folder containing perifusion data
 #setwd()
